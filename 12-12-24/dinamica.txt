@@ -1,0 +1,45 @@
+Intellij Idea
+
+link: https://tech.pedrogalvao.com/dev/o-que-e-intellij-idea/
+
+Criador: Empresa JetBrains
+Data Criacão: 2001
+
+Preço: 
+Empresas - R$467,77 p/m;
+Individual - R$101,95 p/m;
+Estudantes, Professores e Instituições de Ensino - Grátis.
+
+Funcionalidades:
+ 
+Suporte de Multi Linguagens: Além de Java e Kotlin, 
+o IntelliJ IDEA suporta uma ampla gama de linguagens de programação, incluindo 
+JavaScript, TypeScript, SQL, Python e muitas outras, 
+com ferramentas específicas para cada uma delas.
+
+Editor inteligente:
+O IntelliJ IDEA oferece um editor inteligente que compreende o código e 
+fornece sugestões contextuais,
+correções automáticas e até mesmo geração de código baseada em padrões.
+
+Refatoração de código:
+Facilita a reestruturação do código-fonte de forma segura, 
+permitindo que os desenvolvedores otimizem 
+e melhorem a estrutura do código com poucos cliques.
+
+Integração com frameworks:
+Possui integração nativa com diversos frameworks populares, como Spring,
+Hibernate, AngularJS, React e outros,
+simplificando o desenvolvimento de aplicações complexas.
+
+Ferramentas de análise e inspeção:
+Oferece ferramentas poderosas para análise estática de código, 
+detecção de erros potenciais, 
+inspeção de código e melhorias de desempenho.
+
+Extensibilidade:
+Suporta uma vasta coleção de plugins que podem ser instalados para 
+estender ainda mais suas funcionalidades, 
+se adaptando às necessidades específicas de cada projeto e desenvolvedor.
+
+Por quê utilizar?
